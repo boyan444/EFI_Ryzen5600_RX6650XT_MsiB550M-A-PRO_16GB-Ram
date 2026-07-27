@@ -1,4 +1,4 @@
-![Image Alt](https://github.com/boyan444/EFI_Ryzen5600_RX6650XT_MsiB550M-A-PRO_16GB-Ram/blob/59bf66326ca70a4dc3f3ab525aef08d6abd68fca/Screenshot%202026-07-27%20at%2018.52.33.png)]
+![Image Alt](https://github.com/boyan444/EFI_Ryzen5600_RX6650XT_MsiB550M-A-PRO_16GB-Ram/blob/59bf66326ca70a4dc3f3ab525aef08d6abd68fca/Screenshot%202026-07-27%20at%2018.52.33.png)
 # EFI_Ryzen5600_RX6650XT_MsiB550M-A-PRO_16GB-Ram
 The EFI is tested and working on macOS Tahoe.It is based on my specific hardware!
 ## Hardware
