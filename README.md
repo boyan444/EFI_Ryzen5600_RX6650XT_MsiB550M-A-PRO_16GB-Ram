@@ -1,3 +1,4 @@
+![Hackintosh Desktop](Screenshot 2026-07-27 at 18.52.33.png)
 # EFI_Ryzen5600_RX6650XT_MsiB550M-A-PRO_16GB-Ram
 The EFI is tested and working on macOS Tahoe.It is based on my specific hardware!
 ## Hardware
